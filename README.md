@@ -1,2 +1,2 @@
-# psm-I-quiz
+# PSM-I-quiz
 API with PSM I quiz
